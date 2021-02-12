@@ -2,3 +2,9 @@
 # 2.Hafta Odev
 
 odev ile ilgili yonlendirmeler odev.js dosyasinda bulunuyor.
+
+## Comments
+isValidName fonksiyonunun test caseleri için Jest framework kullanılmıştır.
+### Test Etmek İçin
+**Step 1** : `npm install` <br />
+**Step 2** : `npm test`
